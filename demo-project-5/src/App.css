@@ -1,0 +1,66 @@
+*{
+  div{
+    border: 1px solid black;
+  }
+}
+.main{
+  max-width:1000px ;
+  height: 85vh;
+  display: flex;
+
+}
+.first{
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+}
+.b1{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  
+}
+.v1{
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+
+}
+.j1{
+  flex: 1;
+}
+.j2{
+  flex: 3;
+
+}
+.j3{
+  flex: 1;
+}
+
+.b2{
+  flex: 1;
+  display: flex;
+
+}
+.c1{
+  flex: 1;
+  display: flex;
+}
+.c2{
+  flex: 4;
+}
+.c3{
+  flex: 1;
+}
+.c4{
+  flex: 1;
+}
+
+.second{
+  flex:1;
+  display: flex;
+  
+}
+h1{
+  flex: 1;
+}
