@@ -9,6 +9,7 @@ function App() {
     <div className="main">
     <Flex/>
     <Flex1/>
+    
     </div>
   )
 }

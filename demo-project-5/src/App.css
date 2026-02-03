@@ -4,63 +4,245 @@
   }
 }
 .main{
-  max-width:1000px ;
-  height: 85vh;
+  max-width: 1000px;
+  height: 65vh;
   display: flex;
-
 }
 .first{
   flex: 2;
   display: flex;
   flex-direction: column;
+
 }
 .b1{
   flex: 1;
-  display: flex;
-  flex-direction: column;
-  
 }
-.v1{
+.b2{
   flex: 1;
   display: flex;
-  flex-direction: row;
-
+}
+.a1{
+  flex: 1;
+}
+.a1 img{
+    width: 60%;
+    height: 60%;
+}
+.a2{
+  flex: 4;
+}
+.a3{
+  flex: 2;
+}
+.b3{
+  flex: 1;
+  display: flex;
+}
+.s1{
+  flex: 8;
+}
+.s2{
+  flex: 1;
+}
+.s3{
+  flex: 1;
+}
+.b4{
+  flex: 1;
+  display: flex;
+}
+.d1{
+  flex: 1;
+}
+.d2{
+  flex:6;
+}
+.d3{
+  flex: 1;
+}
+.b5{
+  flex: 1;
+  display: flex;
+}
+.f1{
+  flex: 4;
+}
+.f2{
+  flex: 1;
+}
+.f3{
+  flex: 1;
+}
+.b6{
+  flex: 1;
+  display: flex;
+}
+.g1{
+  flex: 3;
+}
+.g2{
+  flex: 2;
+}
+.g3{
+  flex: 1;
+}
+.g4{
+  flex: 2;
+}
+.b7{
+  flex: 1;
+  display: flex;
+}
+.y1{
+  flex: 5;
+}
+.y2{
+  flex: 2;
+}
+.y3{
+  flex: 1;
+}
+.b8{
+  flex: 1;
+}
+.b9{
+  flex: 1;
+}
+.second{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.h1{
+  flex: 2;
+}
+.h2{
+  flex: 8;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(197, 240, 240);
+}
+.u1{
+  flex: 4;
+  margin-bottom: 15px;
+  margin-left: 54px;
+  margin-right: 54px;
+  margin-top: -90px;
+  display: flex;
+  flex-direction: column;
+}
+.x1{
+  flex: 1;
+  display: flex;
 }
 .j1{
   flex: 1;
 }
 .j2{
-  flex: 3;
-
+  flex: 6;
 }
 .j3{
   flex: 1;
 }
-
-.b2{
+.x2{
+  flex: 3;
+}
+.x3{
+  flex: 1;
+  padding-left: 20px;
+}
+.x4{
+  flex: 1;
+  padding-left: 20px;
+}
+.x5{
+  flex: 1;
+}
+.x6{
   flex: 1;
   display: flex;
-
 }
-.c1{
+.x7{
+  flex: 1;
+  padding-left: 20px;
+}
+.x8{
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+ 
+}
+.x8 img{
+  width: 70px;
+  height: 20px;
+   margin-left: 20px;
+   
+}
+.u2{
+  flex: 1;
+}
+.u3{
   flex: 1;
   display: flex;
 }
-.c2{
+.m1{
   flex: 4;
 }
-.c3{
+.m2{
   flex: 1;
 }
-.c4{
+.m3{
   flex: 1;
 }
-
-.second{
-  flex:1;
+.u4{
+  flex: 1;
   display: flex;
-  
 }
-h1{
+.v1{
+  flex: 2;
+}
+.v2{
   flex: 1;
+}
+.u5{
+  flex: 1;
+  display: flex;
+}
+.q1{
+  flex: 1;
+}
+.q2{
+  flex: 1;
+}
+.u6{
+  flex: 1;
+  display: flex;
+}
+.w1{
+  flex: 3;
+}
+.w2{
+  flex: 2;
+}
+.u7{
+  flex: 1;
+}
+.u8{
+  flex: 1;
+}
+.u9{
+  flex: 1;
+  display: flex;
+
+}
+.e1{
+  flex: 4;
+}
+.e2{
+  flex: 1;
+}
+.e2 img{
+  width: 20px;
+  height: 40px;
+  margin-left: 20px;
 }
